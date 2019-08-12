@@ -11,6 +11,7 @@ Draft: True
 This is a prototype for a website created using Pelican web framework.
 I am using Darkthrone as a topic because I love that band.
 *Transilvanian Hunger* is probably my fav album.
-**A Blaze in the Northern Sky** is fvkking killer, too
+*A Blaze in the Northern Sky* is fvkking killer, too
 ###Black Metal from Norway
 
+![DTTH]({static}/images/transhunger.jpg)
