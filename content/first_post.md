@@ -1,6 +1,6 @@
 Title: This is the first post
-Date: 10/14/1977
-Category: Python
+Date: Sunday, August 11, 2019
+Category: Darkthrone
 Tags: Darkthrone, Python, Awesomeness
 Slug: first_post
 Authors: Michael
